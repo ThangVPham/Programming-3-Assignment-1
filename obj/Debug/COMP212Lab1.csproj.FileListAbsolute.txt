@@ -1,0 +1,7 @@
+C:\Users\Avan\Documents\School\Centennial\4-2021 Fall\COMP 212 Programming 3\Lab 1\COMP212Lab1\obj\Debug\COMP212Lab1.csprojAssemblyReference.cache
+C:\Users\Avan\Documents\School\Centennial\4-2021 Fall\COMP 212 Programming 3\Lab 1\COMP212Lab1\obj\Debug\COMP212Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Avan\Documents\School\Centennial\4-2021 Fall\COMP 212 Programming 3\Lab 1\COMP212Lab1\bin\Debug\COMP212Lab1.exe.config
+C:\Users\Avan\Documents\School\Centennial\4-2021 Fall\COMP 212 Programming 3\Lab 1\COMP212Lab1\bin\Debug\COMP212Lab1.exe
+C:\Users\Avan\Documents\School\Centennial\4-2021 Fall\COMP 212 Programming 3\Lab 1\COMP212Lab1\bin\Debug\COMP212Lab1.pdb
+C:\Users\Avan\Documents\School\Centennial\4-2021 Fall\COMP 212 Programming 3\Lab 1\COMP212Lab1\obj\Debug\COMP212Lab1.exe
+C:\Users\Avan\Documents\School\Centennial\4-2021 Fall\COMP 212 Programming 3\Lab 1\COMP212Lab1\obj\Debug\COMP212Lab1.pdb
